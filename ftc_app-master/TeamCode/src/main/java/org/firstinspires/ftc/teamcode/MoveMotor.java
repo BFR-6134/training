@@ -66,6 +66,7 @@ public class MoveMotor extends OpMode{
     ElapsedTime timer = new ElapsedTime();
     double counter = 0;
     double speed;
+    // I was here
 */
     /*
      * Code to run ONCE when the driver hits INIT
